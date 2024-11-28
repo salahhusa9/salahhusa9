@@ -12,13 +12,13 @@
 
 - 👯 I’m looking to collaborate on [Laravel](https://github.com/laravel)
 
-- 👨‍💻 All of my projects are available at [bendyab.me](bendyab.me)
+- 👨‍💻 All of my projects are available at [salahhusa9.com](salahhusa9.com)
 
 - 💬 Ask me about **Laravel**
 
-- 📫 How to reach me **salah.eddine@bendyab.me**
+- 📫 How to reach me **contact@salahhusa9.com**
 
-- 📄 Know about my experiences [www.bendyab.me/download/SalahEddineBendyabResume.pdf](www.bendyab.me/download/SalahEddineBendyabResume.pdf)
+- 📄 Know about my experiences [www.salahhusa9.com/download/SalahEddineBendyabResume.pdf](www.salahhusa9.com/download/SalahEddineBendyabResume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
