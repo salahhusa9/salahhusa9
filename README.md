@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on [Laravel](https://github.com/laravel)
 
-- 👨‍💻 All of my projects are available at [salahhusa9.com](salahhusa9.com)
+- 👨‍💻 All of my projects are available at [salahhusa9.com](https://salahhusa9.com)
 
 - 💬 Ask me about **Laravel**
 
